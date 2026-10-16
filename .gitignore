@@ -5,6 +5,8 @@ logs/
 data/raw/
 data/parsed/
 data/processed/
+db/
+*.db
 __pycache__/
 *.pyc
 .env

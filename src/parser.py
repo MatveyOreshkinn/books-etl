@@ -5,6 +5,7 @@ from pathlib import Path
 
 
 Path('./data/parsed').mkdir(exist_ok=True)
+Path('./logs').mkdir(exist_ok=True)
 
 all_data = []
 logging.basicConfig(level=logging.INFO,
