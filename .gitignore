@@ -3,6 +3,7 @@ venv/
 logs/
 *.log
 data/raw/
+data/parsed/
 data/processed/
 __pycache__/
 *.pyc
